@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "title": "Repder",
+    "offerPrice": "3,999",
+    "img":
+    "https://i.ibb.co/cr1khZ3/68.png",
+    "desc":
+    "Electric steel sting"
+  },
+  {
+    "id": 1,
+    "title": "Electric",
+    "offerPrice": "6,999",
+    "img":
+    "https://i.ibb.co/CVGcjfX/67.jpg",
+    "desc":
+    "Faded"
+  },
+  {
+    "id": 2,
+    "title": "Acutsic",
+    "offerPrice": "2,000",
+    "img":
+      "https://i.ibb.co/jD0WPdR/27.png",
+    "desc":
+      "steel stings"
+  },
+  {
+    "id": 3,
+    "title": "Acutsic",
+    "offerPrice": "2,000",
+    "img":
+      "https://i.ibb.co/rkMVr0V/54.png",
+    "desc":
+      "Acustic"
+  },{
+    "id": 4,
+    "title": "Acustic",
+    "offerPrice": "2,000",
+    "img":
+      "https://i.ibb.co/3pvYtMg/22.png",
+    "desc":
+      "Nylon Strings"
+  }
+]

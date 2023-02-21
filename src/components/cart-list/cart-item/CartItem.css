@@ -1,0 +1,10 @@
+.cart-remove{
+    color: #bd4b17;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 767px){
+    .cart-img{
+      margin-bottom: 1rem;
+    }
+  }

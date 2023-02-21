@@ -1,0 +1,14 @@
+
+
+.home-img  {
+  /* background-repeat: no-repeat; */
+  /* min-height: calc(100vh - 4.5rem); */
+  /* position the element */
+  /* background-size: cover; */
+  position: relative;
+  top: 34%;
+  height: 960px;
+  /* bottom: 810%; */
+  left: 80%;
+  transform: translate(-73%, -17%);
+}
