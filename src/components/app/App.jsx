@@ -7,6 +7,8 @@ import ViewProduct from '../../containers/view-product/ViewProduct'
 import Wishlist from '../../containers/wishlist/Wishlist'
 import Cart from '../../containers/cart/Cart'
 import Checkout from '../../containers/checkout/Checkout'
+import SignIn from '../../containers/SignIn/SignIn'
+import Register from '../../containers/Register/Register'
 
 const App = () => (
     <Router>
@@ -32,6 +34,14 @@ const App = () => (
             <Route 
                 path="/checkout"
                 component={ Checkout }
+            ></Route>
+            <Route 
+                path="/signin"
+                component={ SignIn }
+            ></Route>
+            <Route 
+                path="/register"
+                component={ Register }
             ></Route>
         </Switch>
     </Router>
