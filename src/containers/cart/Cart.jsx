@@ -12,6 +12,8 @@ import PriceList from '../../components/price-list/PriceList'
 import EmptyCart from '../../components/shared/EmptyCart'
 import Button from '../../components/shared/button/Button'
 
+
+
 const Cart = props => {
 
     const { cartItems, totalItems, getQuantity, removeFromCart, getTotalItemPrice, totalPrice, } = props

@@ -13,6 +13,7 @@ const WishlistList = props => {
                 <WishlistItem
                     key={item.id}
                     item={item}
+                    
                     removeFromWishlist={removeFromWishlist}
                 />
             ))
