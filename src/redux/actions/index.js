@@ -49,3 +49,7 @@ export const checkout = allProductsId => ({
     payload: { allProductsId }
 })
 
+export const returns = allProductsId => ({
+    type: actionTypes.RETURNS,
+    payload: { allProductsId }
+})
